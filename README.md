@@ -18,4 +18,4 @@ Développeur web autodidacte et entrepreneur.
 ## 📫 Me contacter
 
 - 🌐 [tymeosekkal.fr](https://tymeosekkal.fr)
-- 💼 [LinkedIn](h[ttps://tymeosekkal](https://www.linkedin.com/in/tyméo-sekkal-b6511243a/))
+- 💼 [LinkedIn]([ttps://tymeosekkal](https://www.linkedin.com/in/tyméo-sekkal-b6511243a/))
