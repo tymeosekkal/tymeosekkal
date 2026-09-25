@@ -9,10 +9,11 @@ Développeur web autodidacte et entrepreneur.
 
 ## 🛠️ Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat)
+![Hébergement de serveurs](https://img.shields.io/badge/H%C3%A9bergement_de_serveurs-2563EB?style=flat)
+![Réseaux sociaux](https://img.shields.io/badge/Gestion_des_r%C3%A9seaux_sociaux-E1306C?style=flat)
 
 ## 📫 Me contacter
 
