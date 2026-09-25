@@ -5,7 +5,7 @@ Développeur web autodidacte et entrepreneur.
 ## 🚀 Mes projets
 
 - **[Web Aplani](https://URL-WEB-APLANI)** : création de sites web modernes et rapides pour les indépendants et les entreprises.
-- **[DocFacile](https://docfacile.fr)** : outil en ligne gratuit pour convertir ses fichiers PDF en Word, JPG ou Excel.
+- **[DocFacile](https://docfacile.fr)** : outil en ligne gratuit répondant aux besoins quotidiens de la société française pour convertir ses fichiers, les adapter à chaque besoins réglementaires et structurés, et pleins d'autres outils permettant aux utilisateurs 
 
 ## 🛠️ Technologies
 
